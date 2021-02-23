@@ -1,1 +1,3 @@
-#### EasyDork available on [CSPSHIVAM](https://www.cspshivam.com/tools)
+# EasyDork 
+-----------------------------
+#### Instruction to Installation & Usage are available on [CSPSHIVAM](https://www.cspshivam.com/tools)
