@@ -1,7 +1,7 @@
 #!/bin/bash
 toilet -F gay -f mono12 EasyDork
 echo -e "<-------------------------(\e[95m by CSPSHIV\e[5mΔ\e[0m\e[95mM\e[0m )----------------------------->"
-echo -e "<-------------------------(\e[95m https://www.cspshivam.com/tools \e[0m)---------->"
+echo -e "<-------------------------(\e[95m https://cspshivam.tk/tools \e[0m)---------->"
 echo "	"
 usage(){
 echo -e "Usage  : $ easydork [domain]
